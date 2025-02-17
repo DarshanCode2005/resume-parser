@@ -15,7 +15,7 @@ A Python-based tool for extracting structured data from resumes in PDF, DOCX, an
 
 ## Installation 🛠️
 
-git clone https://github.com/yourusername/resume-parser.git
+git clone https://github.com/DarshanCode2005/resume-parser.git
 cd resume-parser
 pip install -r requirements.txt
 
