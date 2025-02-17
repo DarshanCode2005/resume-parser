@@ -1,0 +1,8 @@
+# Core NLP and parsing
+spacy==3.7.4
+pdfminer.six==20231228
+python-docx==1.1.0
+pandas==2.2.1
+
+# NLP models (run after installing requirements)
+# python -m spacy download en_core_web_sm
